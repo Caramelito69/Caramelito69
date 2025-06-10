@@ -45,7 +45,9 @@
 
   <summary><b>⚡ Recent GitHub Activity</b></summary>
   <br/>
-  <a href="https://github.com/Caramelito69"><img alt="Adrian's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Caramelito69&custom_title=Rafael's%20Contribution%20Graph&theme=react-dark" /></a>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Caramelito69&theme=react-dark&hide_border=true&area=true" alt="GitHub Activity Graph">
+
+
   <br/>
 
   <hr style="width: 80%; border-top: 1px solid #ccc; margin: 40px 0;">
