@@ -1,8 +1,16 @@
 <h1 align="center"><img src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width="35">Hi , I'm Adrian <img src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width="35"></h1>
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Competitive+Programmer;ICPC+Participant;Software+Developer;Complex+Algorithms&center=true&width=500&height=50"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Competitive+Programmer;ICPC+Participant;Software+Developer;Complex+Algorithms&center=true&width=500&height=50"></a>
 </p>
-
+<table align="center">
+  <tr>
+    <td valign="top">
+      </td>
+    <td valign="top">
+      <img src="https://i.imgur.com/OVk05n3.png" height="150">
+    </td>
+  </tr>
+</table>
 
 ### 🛠 &nbsp;Tech Stack
 
